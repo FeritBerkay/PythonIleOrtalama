@@ -1,0 +1,2 @@
+# PythonIleOrtalama
+İlk Python Projem
